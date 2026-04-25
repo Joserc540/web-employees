@@ -1,4 +1,4 @@
-var enlace_api = 'http://3.218.29.27:8000'
+var enlace_api = 'http://54.89.33.98:8000'
 
 var solicitar_lista=  (event) => {
         fetch(enlace_api + '/employees')
